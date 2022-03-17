@@ -1,0 +1,50 @@
+body{
+	background-color: WhiteSmoke;
+}
+table{
+  border:1px solid black;
+  background-color: AliceBlue;
+}
+td{
+	color: #008CBA;
+	font-family: "Franklin Gothic Medium",sans-serif;
+}
+th{
+	color: #008CBA;
+	font-size: 30px;
+	font-family: "Franklin Gothic Medium",sans-serif;
+}
+p2{
+    border-style: outset;  
+	font-size: 50px;
+	color: CornflowerBlue;
+}
+p3{
+	color: grey;
+    font-family: "Franklin Gothic Medium",sans-serif;
+}
+.button1{
+	background-color: #008CBA;
+  	border: none;
+  	color: white;
+  	padding: 15px 28px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	margin: 4px 2px;
+  	cursor: pointer;
+}
+.burg{
+	position: fixed;
+    top: 0px;
+    right: 0px;
+}
+.userpic{
+	position: fixed;
+    top: 0px;
+    right: 200px;
+}
+.helppage{
+	color: grey;
+    font-family: "Franklin Gothic Medium",sans-serif;
